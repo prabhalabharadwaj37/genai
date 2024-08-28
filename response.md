@@ -3,11 +3,11 @@
     <img src="class_diagram.png" width="500" height="500">
 </div>
 
-## Explain in brief what this image is about
+## Prompt: Explain in brief what this image is about
 
 This image shows a class diagram depicting the structure of a chat application. It showcases different classes like Main, Core, Profile, Settings, Users, BuddyList, BuddyList Window, Sign in Window, ProfileList, Chat Window, and Options Window. Each class has specific attributes and methods to manage user profiles, buddy lists, chats, settings, and user authentication. The diagram highlights the relationships between these classes, indicating how they interact and communicate with each other.  The diagram also shows the inheritance relationships, for example, Twitter User, ICQ User, and Jabber User all inherit from the Users class.  Overall, this diagram provides a visual representation of the application's architecture and how its various components work together. 
 
-## Convert this diagram into text explaining each class and the linkages between classes
+## Prompt: Convert this diagram into text explaining each class and the linkages between classes
 
 The diagram depicts a system with the following classes:
 
@@ -118,7 +118,7 @@ This diagram depicts a comprehensive system for managing user profiles, friends,
     <img src="e2e_rt_data_system_design.png" width="900" height="500">
 </div>
 
-## Can you tell me what this diagram is regarding and list all the services are being used here?
+## Prompt: Can you tell me what this diagram is regarding and list all the services are being used here?
 
 This diagram shows an example of a data lake solution on AWS. It depicts how different data sources can be ingested, harmonized, provisioned, and used for analytics and machine learning. 
 
@@ -173,7 +173,3 @@ The diagram showcases the following AWS services:
 * **Call Center**: Customer service call center
 
 This diagram demonstrates how AWS services can be combined to create a comprehensive data lake solution. It highlights the importance of data ingestion, harmonization, provisioning, and data stewardship in building a robust and scalable data ecosystem.
-
-
-
-
